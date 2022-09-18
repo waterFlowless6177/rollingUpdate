@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "pajrios 6/20/2022 13:03",
+	"super" : "CellElement",
+	"category" : "MyNewLaserGame-Graphics-Cells",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetCircleRadius",
+		"targetCircleCenterPoint"
+	],
+	"name" : "TargetCellElement",
+	"type" : "normal"
+}
