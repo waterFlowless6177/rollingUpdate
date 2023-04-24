@@ -1,0 +1,5 @@
+geometry
+mirrorCellEnd
+
+	self subclassResponsibility 
+	
