@@ -1,0 +1,4 @@
+event
+mirrorCellEventListener
+
+	^MirrorCellEventListener new
