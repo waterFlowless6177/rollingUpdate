@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "pajrios 9/23/2022 16:41",
+	"super" : "Object",
+	"category" : "MyNewLaserGame-LaserGame",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"myGame",
+		"myGridBoard",
+		"space"
+	],
+	"name" : "LaserGame",
+	"type" : "normal"
+}
