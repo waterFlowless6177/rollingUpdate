@@ -1,0 +1,4 @@
+accessing
+mirrorCellsCount
+
+	^ (mirrorLeftCellsCount  + mirrorRightCellsCount  )
