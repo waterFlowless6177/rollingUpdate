@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "pajrios 6/27/2022 12:27",
+	"super" : "Object",
+	"category" : "MyNewLaserGame-Model-Grid",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"laserIsActive",
+		"numberOfColumns",
+		"numberOfRows",
+		"gridCells",
+		"laserBeamPath",
+		"mirrorLeftCellsCount",
+		"mirrorRightCellsCount",
+		"blankCellsCount",
+		"mirrorMoves",
+		"laserBeamPathSegmentCount"
+	],
+	"name" : "Grid",
+	"type" : "normal"
+}
