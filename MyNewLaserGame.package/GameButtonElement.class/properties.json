@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "BrButton",
+	"category" : "MyNewLaserGame-Graphics-Buttons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"laserIsActive",
+		"gridBoardGame",
+		"gridBoardElement",
+		"controlPanelElement"
+	],
+	"name" : "GameButtonElement",
+	"type" : "normal"
+}
