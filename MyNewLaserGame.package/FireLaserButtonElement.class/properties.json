@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GameButtonElement",
+	"category" : "MyNewLaserGame-Graphics-Buttons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberOfClicks"
+	],
+	"name" : "FireLaserButtonElement",
+	"type" : "normal"
+}
