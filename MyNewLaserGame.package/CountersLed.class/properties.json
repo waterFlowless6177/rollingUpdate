@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "LedMorph",
+	"category" : "MyNewLaserGame-Model-Leds",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gridBoardGame"
+	],
+	"name" : "CountersLed",
+	"type" : "normal"
+}
