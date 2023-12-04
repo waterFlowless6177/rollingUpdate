@@ -1,0 +1,4 @@
+connecting
+gridElementButtonConnection
+
+	^ self laserGameElement gridBoardElement
