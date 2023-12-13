@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "pajrios 6/21/2022 18:02",
+	"super" : "BlElement",
+	"category" : "MyNewLaserGame-Graphics-Panels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonElements",
+		"ledElements",
+		"gridBoardGame",
+		"gridBoardElement",
+		"laserGameElement"
+	],
+	"name" : "ControlPanelElement",
+	"type" : "normal"
+}
