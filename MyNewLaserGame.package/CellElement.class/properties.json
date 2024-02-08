@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "pajrios 7/6/2022 10:46",
+	"super" : "BlElement",
+	"category" : "MyNewLaserGame-Graphics-Cells",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cell",
+		"cellBorder",
+		"cellElementIndex",
+		"cellElementLocation",
+		"laserIsActive",
+		"cellElementEntrySide",
+		"cellBoardGrid",
+		"cellEntrySideControl",
+		"cellNumberOfTimesInLbPath"
+	],
+	"name" : "CellElement",
+	"type" : "normal"
+}
