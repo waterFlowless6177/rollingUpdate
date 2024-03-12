@@ -1,0 +1,4 @@
+composition
+controlPanelElement
+
+	^ ButtonPanelExample new 
